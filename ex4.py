@@ -1,3 +1,4 @@
+#relational operators - ex4.py
 num1 = 2
 num2 = 3
 

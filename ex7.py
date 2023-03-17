@@ -1,4 +1,4 @@
-#membership opeators
+#membership opeators - ex7.py
 num = 3
 
 #in operator

@@ -1,4 +1,4 @@
-#bitwise operators
+#bitwise operators - ex8.py
 
 #bitwise and
 

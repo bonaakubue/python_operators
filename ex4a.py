@@ -1,4 +1,4 @@
-#relational operator in control flow
+#relational operator in control flow - ex4a.py
 
 num = 2
 

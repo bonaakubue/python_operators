@@ -1,4 +1,4 @@
-#logical operators
+#logical operators - ex5.py
 
 #and operator
 result =  3 > 2 and 2 < 1
