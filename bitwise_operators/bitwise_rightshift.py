@@ -1,4 +1,4 @@
-#bitwise right
+#bitwise right shift
 
 num = 0b1001
 
